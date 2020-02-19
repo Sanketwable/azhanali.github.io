@@ -1,5 +1,5 @@
 var arr=[];
-alert("hey there lets start a game until the game is over");        
+alert("hey there lets start the game");        
   var myVar;
 var colors = [
     "rgb(250, 0, 0)",
