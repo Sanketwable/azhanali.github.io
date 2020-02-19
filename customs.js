@@ -1,3 +1,4 @@
+var fs = require('fs');
 var arr=[];
 alert("hey i m in");        
   var myVar,r,g,b,colors=[];
